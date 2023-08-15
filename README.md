@@ -32,7 +32,7 @@ Class Intervals | Frequency
 
 ### Task 4: Departmental Proportions Visualization
 
-![Department Proportions](column chart.png)
+![Department Proportions](column%20chart.png)
 
 - **Insight:** Operations and Service departments have the highest number of employees.
 - **Recommendation:** Assess departmental distribution against strategic goals and consider adjustments if needed.
