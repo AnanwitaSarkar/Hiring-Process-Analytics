@@ -32,14 +32,14 @@ Class Intervals | Frequency
 
 ### Task 4: Departmental Proportions Visualization
 
-![Department Proportions](column_chart.png)
+![Department Proportions](column chart.png)
 
 - **Insight:** Operations and Service departments have the highest number of employees.
 - **Recommendation:** Assess departmental distribution against strategic goals and consider adjustments if needed.
 
 ### Task 5: Post Tier Representation Analysis
 
-![Post Tier Representation](path/to/post_tier_representation.png)
+![Post Tier Representation](pie chart.png)
 
 - **Insight:** "c9" post tier has the highest representation, followed by "i7" and "c5."
 - **Recommendation:** Evaluate post tier distribution for career progression opportunities and alignment with growth plans.
@@ -55,10 +55,6 @@ Class Intervals | Frequency
 ## Contributions
 
 Contributions to this project are welcome! If you have suggestions for improvements, data enhancements, or new analyses, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
