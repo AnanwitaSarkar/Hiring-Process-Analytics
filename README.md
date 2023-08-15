@@ -39,7 +39,7 @@ Class Intervals | Frequency
 
 ### Task 5: Post Tier Representation Analysis
 
-![Post Tier Representation](pie chart.png)
+![Post Tier Representation](pie%20chart.png)
 
 - **Insight:** "c9" post tier has the highest representation, followed by "i7" and "c5."
 - **Recommendation:** Evaluate post tier distribution for career progression opportunities and alignment with growth plans.
