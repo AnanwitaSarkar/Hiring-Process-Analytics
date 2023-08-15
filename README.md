@@ -25,7 +25,6 @@ Class Intervals | Frequency
 80001-120000 | 1370
 120001-160000 | 0
 160001-200000 | 1
-... | ...
 
 - **Insight:** Majority of employees fall within the $0-$80,000 salary range.
 - **Recommendation:** Review salary distribution for fairness and competitiveness, especially in the higher salary brackets.
